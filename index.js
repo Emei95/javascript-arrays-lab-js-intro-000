@@ -1,5 +1,4 @@
 var kittens = ['Milo', 'Otis', 'Garfield']
-function destructivelyAppendKitten()
-destructivelyAppendKitten ('element')
+function destructivelyAppendKitten('element')
 return destructivelyAppendKitten
 }
